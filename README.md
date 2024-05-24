@@ -19,13 +19,6 @@ I created it to improve my coding skills by building realistic projects.
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-The objective
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size (Responsive Design)
-- See hover states for interactive elements
-
 
 ### The objective
 
