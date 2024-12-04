@@ -79,8 +79,14 @@ font-weight: 300;
     .special-heading + p{
         margin-top: -15px;
     }
+    .landing{
+        /* position: relative;
+        background-image: url(../images/mountain1.WebP);
+        background-size: cover;
+        height: calc(50vh - 85px);   */
+        display: none;
+    }
 }
-
 /*End Component*/
 
 /*Start Header*/
@@ -186,7 +192,7 @@ font-weight: 300;
 /*Start Landing Section*/
 .landing{
     position: relative;
-    background-image: url(../images/mountain1.png);
+    background-image: url(../images/mountain1.WebP);
     background-size: cover;
     height: calc(100vh - 85px);  
 }
